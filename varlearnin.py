@@ -18,3 +18,7 @@ _bonus =100 # avoid
 # also avoid starting with number and no special characters
 # use no important words
 
+
+print(type(my_name))
+print(id(age))
+
