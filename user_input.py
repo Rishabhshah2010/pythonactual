@@ -4,4 +4,4 @@
 price =input("Enter price ")
 quantity = input("Enter quantity ")
 total_price = float(price) * float(quantity)
-print(total_price)
+print(int(total_price))
